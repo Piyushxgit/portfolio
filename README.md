@@ -60,12 +60,12 @@ Portfolio/
 
 ## 🧠 Skills Highlighted
 
-- HTML5 – 80%  
-- CSS3 – 95%  
-- JavaScript – 40%  
-- Java – 50%  
-- Machine Learning – 30%  
-- Python – 60%  
+- HTML5 
+- CSS3 
+- JavaScript 
+- Java 
+- Machine Learning   
+- Python 
 
 ---
 
